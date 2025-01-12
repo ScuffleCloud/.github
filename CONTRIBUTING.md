@@ -12,7 +12,7 @@ To sign the CLA, please head over to [cla.scuffle.cloud](https://cla.scuffle.clo
 
 ## Pull Requests
 
-Pull requests body's should include a `Motivation` and `Solution` section, as well as a `Tickets` section linking any relevant tickets (if applicable).
+Pull requests body's should link any relevant tickets (if applicable).
 
 ## Commit Messages
 
@@ -28,7 +28,7 @@ When you make a PR, you should also update the documentation for the sub-project
 
 ## Questions
 
-If you have any questions, please ask in the [discord server](https://discord.gg/scuffle) or create an issue on the repo or in the discussion section
+If you have any questions, please ask in the [discord server](https://discord.gg/scuffle) or create an issue on the repo or in the discussion section.
 
 Please do not hesitate to ask questions; we are here to help you and make sure you are comfortable contributing to this project. If you need help following the design documents or need clarification about the codebase, please ask us, and we will help you.
 
