@@ -1,6 +1,6 @@
 # .github
 
-This repo is for the [GitHub Organization Profile Page](https://github.com/ScuffleTV)
+This repo is for the [GitHub Organization Profile Page](https://github.com/ScuffleCloud)
 
 ## Contributing
 
@@ -24,7 +24,7 @@ If you find a security vulnerability, please read the [Security Policy](SECURITY
 
 ## Contact
 
-If you have any questions, please contact us at [opensource@scuffle.tv](mailto:opensource@scuffle.tv)
+If you have any questions, please contact us at [opensource@scuffle.cloud](mailto:opensource@scuffle.cloud)
 
 ## License
 
