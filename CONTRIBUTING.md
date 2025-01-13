@@ -8,7 +8,7 @@ We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that we expect all contributor
 
 We require all contributors to sign a [Contributor License Agreement](./CLA.md) before we can accept any contributions.
 
-To sign the CLA, please head over to [cla.scuffle.tv](https://cla.scuffle.tv) and sign the CLA.
+To sign the CLA, please head over to [cla.scuffle.cloud](https://cla.scuffle.cloud) and sign the CLA.
 
 ## Pull Requests
 
