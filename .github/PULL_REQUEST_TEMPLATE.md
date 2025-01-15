@@ -1,5 +1,5 @@
 <!--
-Thank you for your Pull Request. Please provide a description above.
+Thank you for your Pull Request. Please provide a short description of your changes above.
 
 Bug fixes and new features should include tests.
 
